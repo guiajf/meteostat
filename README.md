@@ -356,6 +356,28 @@ print(f"Temperatura mínima absoluta: {tmin_min:.1f}°C \
 
 
 
-**Referência:**
+
+**Considerações finais:**
+
+O gráfico mensal demonstra que entre 2013 e 2017, diversos episódios de queda acentuada de temperatura ocorreram em Juiz de Fora, principalmente nos meses de outono e inverno e também em setembro, normalmente associados à passagem de frentes frias e à atuação da massa de polar.
+
+
+**Fontes:**
+
+Meteostat e provedores.
+
+**Referências:**
+
+Isaia, Daniel. *Massa polar derruba temperaturas em grande parte do território brasileiro*. Brasília, DF,26 abr 2016. Disponível em: https://agenciabrasil.ebc.com.br/geral/noticia/2016-04/massa-polar-derruba-temperaturas-em-grande-parte-do-territorio-brasileiro. Último acesso em: 04/02/2026.
+
+LAMPRECHT, Christian Sebastian. Meteostat Python. Versão 1.2.0. 2022. Software. Disponível em: https://pypi.org/project/meteostat/. Último acesso em: 04/02/2026.
+
+UOL. *Mais intensa massa de ar polar dos últimos anos avança pelo Brasil no final de semana*. São Paulo, 19 jul. 2013. Disponível em: https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2013/07/19/mais-intensa-massa-de-ar-polar-dos-ultimos-anos-avanca-pelo-brasil-no-final-de-semana.htm. Último acesso em: 04/02/2026.
+
+TRIBUNA DE MINAS. *Frente fria deixa céu nublado e tempo instável*. Juiz de Fora, 17 jul. 2017. Disponível em: https://tribunademinas.com.br/noticias/cidade/17-07-2017/frente-fria-deixa-ceu-nublado-e-tempo-instavel.html. Último acesso em: 04/02/2026.
+
+VALENTE, Eduardo. *Frio em JF bate recorde com 8,1 graus*. Juiz de Fora, 24 jul. 2013. Disponível em: https://tribunademinas.com.br/noticias/cidade/24-07-2013/frio-em-jf-bate-recorde-com-81-graus.html. Último acesso em: 04/02/20526.
+
+VALENTE, Eduardo. *JF registra a menor temperatura máxima desde 2014*. Juiz de Fora, MG, 19 jul 2014. Disponível em: https://tribunademinas.com.br/noticias/cidade/19-07-2017/frio-se-intensifica-em-juiz-de-fora.html. Último acesso em: 04/02/2026.
 
 
