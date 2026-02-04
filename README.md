@@ -127,6 +127,7 @@ O pacote **Meteostat** possui uma função personalizada para visualização gr�
 df.plot(y=[ms.Parameter.TEMP, ms.Parameter.TMIN, ms.Parameter.TMAX])
 plt.show()
 ```
+![](output_27_0.png)
 
 ### Definimos uma função
 
@@ -320,7 +321,11 @@ fig, df, point = plot_temperatures_city(
     Buscando estações meteorológicas próximas...
     Coletando dados de 2007-07-01 a 2025-12-31...
     Dados coletados: 4775 registros de 2007-07-24 a 2025-12-31
-    Gráfico criado (não exibido conforme solicitado).
+    Exibindo gráfico...
+
+![](output_33_2.png)
+
+    Gráfico exibido com sucesso!
     Processo concluído!
 
 
@@ -351,6 +356,6 @@ print(f"Temperatura mínima absoluta: {tmin_min:.1f}°C \
 
 
 
-```python
+**Referência:**
 
-```
+
