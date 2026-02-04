@@ -27,7 +27,6 @@ POINT = ms.Point(-21.762661, -43.365703, 850)
 ### Definimos o intervalo temporal
 
 A **API JSON** exige um intervalo de tempo especificado com os parâmetros START (início) e END (fim). Para esses parâmetros, forneça sempre as datas no formato AAAA-MM-DD.<br>
-O prazo máximo para intervalos diários é de 30 anos.
 
 
 ```python
@@ -46,7 +45,7 @@ stations = ms.stations.nearby(POINT, limit=4)
 
 ### Extraímos os dados
 
-As séries temporais podem ser extraídas em diferentes intervalos de tempo disponíveis: dia, hora e mês. A série diária é ideal para identificar padrões em períodos longos, tais como semanas, meses ou anos.
+As séries temporais podem ser extraídas em diferentes intervalos de tempo disponíveis: dia, hora e mês. A série diária é ideal para identificar padrões em períodos longos, tais como semanas, meses ou anos. O prazo máximo para intervalos diários é de 30 anos.
 
 
 ```python
