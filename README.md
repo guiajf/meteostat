@@ -24,7 +24,7 @@ O *objeto* **POINT** identifica um ponto geográfico específico.
 POINT = ms.Point(-21.762661, -43.365703, 850)
 ```
 
-### Definimos o intervalo temporal
+### Definimos o período da série temporal
 
 A **API JSON** exige um intervalo de tempo especificado com os parâmetros START (início) e END (fim). Para esses parâmetros, forneça sempre as datas no formato AAAA-MM-DD.<br>
 
