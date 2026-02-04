@@ -359,7 +359,7 @@ print(f"Temperatura mínima absoluta: {tmin_min:.1f}°C \
 
 **Considerações finais:**
 
-O gráfico mensal demonstra que entre 2013 e 2017, diversos episódios de queda acentuada de temperatura ocorreram em Juiz de Fora, principalmente nos meses de outono e inverno e também em setembro, normalmente associados à passagem de frentes frias e à atuação da massa de polar.
+O gráfico mensal mostra que, entre 2013 e 2017, diversos episódios de queda acentuada de temperatura ocorreram em Juiz de Fora, sobretudo durante o outono, o inverno e, ocasionalmente, em setembro, normalmente associados à passagem de frentes frias e à atuação de massa de ar polar.
 
 
 **Fontes:**
